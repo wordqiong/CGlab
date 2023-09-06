@@ -1,0 +1,16 @@
+E:\秋招\lab2\include\imgui\imgui.cpp;E:\秋招\lab2\x64\Debug\imgui.obj
+E:\秋招\lab2\include\imgui\imgui_demo.cpp;E:\秋招\lab2\x64\Debug\imgui_demo.obj
+E:\秋招\lab2\include\imgui\imgui_draw.cpp;E:\秋招\lab2\x64\Debug\imgui_draw.obj
+E:\秋招\lab2\include\imgui\imgui_impl_glfw.cpp;E:\秋招\lab2\x64\Debug\imgui_impl_glfw.obj
+E:\秋招\lab2\include\imgui\imgui_impl_opengl3.cpp;E:\秋招\lab2\x64\Debug\imgui_impl_opengl3.obj
+E:\秋招\lab2\include\imgui\imgui_tables.cpp;E:\秋招\lab2\x64\Debug\imgui_tables.obj
+E:\秋招\lab2\include\imgui\imgui_widgets.cpp;E:\秋招\lab2\x64\Debug\imgui_widgets.obj
+E:\秋招\lab2\src\geometry\half-edge.cpp;E:\秋招\lab2\x64\Debug\half-edge.obj
+E:\秋招\lab2\src\geometry\Mesh.cpp;E:\秋招\lab2\x64\Debug\Mesh.obj
+E:\秋招\lab2\src\geometry\Model.cpp;E:\秋招\lab2\x64\Debug\Model.obj
+E:\秋招\lab2\src\main.cpp;E:\秋招\lab2\x64\Debug\main.obj
+E:\秋招\lab2\src\manager\InputManager.cpp;E:\秋招\lab2\x64\Debug\InputManager.obj
+E:\秋招\lab2\src\utils\Camera.cpp;E:\秋招\lab2\x64\Debug\Camera.obj
+E:\秋招\lab2\src\utils\glad.c;E:\秋招\lab2\x64\Debug\glad.obj
+E:\秋招\lab2\src\utils\Shader.cpp;E:\秋招\lab2\x64\Debug\Shader.obj
+E:\秋招\lab2\src\utils\Utils.cpp;E:\秋招\lab2\x64\Debug\Utils.obj

@@ -1,0 +1,26 @@
+﻿E:\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  Camera.cpp
+E:\秋招\lab3\src\Camera.cpp(19,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  hittable.cpp
+E:\秋招\lab3\src\hittable.cpp(16,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+  Ray.cpp
+  Renderer.cpp
+E:\秋招\lab3\src\Renderer.cpp(67,25): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\秋招\lab3\src\Renderer.cpp(68,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\秋招\lab3\src\Renderer.cpp(69,29): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  Scene.cpp
+  正在生成代码...
+  lab3.vcxproj -> E:\秋招\lab3\build\lab3.exe

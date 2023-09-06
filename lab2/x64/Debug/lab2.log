@@ -1,0 +1,31 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  half-edge.cpp
+  Mesh.cpp
+E:\秋招\lab2\src\geometry\Mesh.cpp(56,39): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  Model.cpp
+E:\秋招\lab2\src\geometry\Model.cpp(326,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\秋招\lab2\src\geometry\Model.cpp(327,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\秋招\lab2\src\geometry\Model.cpp(328,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\秋招\lab2\src\geometry\Model.cpp(259,8): warning C4101: “a”: 未引用的局部变量
+  main.cpp
+  InputManager.cpp
+  Camera.cpp
+E:\秋招\lab2\src\utils\Camera.cpp(32,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\秋招\lab2\src\utils\Camera.cpp(44,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Shader.cpp
+E:\秋招\lab2\src\utils\Shader.cpp(63,36): warning C4101: “e”: 未引用的局部变量
+  Utils.cpp
+E:\秋招\lab2\src\utils\Utils.cpp(109,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\秋招\lab2\src\utils\Utils.cpp(110,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\秋招\lab2\src\utils\Utils.cpp(111,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\秋招\lab2\src\utils\Utils.cpp(112,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  glad.c
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  lab2.vcxproj -> E:\秋招\lab2\lab2.exe
